@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arijit-21
+- 👋 Hi, I’m @arijit-22
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...html,,css
 - 💞️ I’m looking to collaborate on ...
