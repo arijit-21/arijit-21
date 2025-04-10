@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-arijit-21/arijit-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+arijit-22/arijit-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
